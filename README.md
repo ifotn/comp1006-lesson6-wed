@@ -18,3 +18,5 @@ Incorporating Error Handling
 Adding File Uploads
 Search
 Comments and other 3rd Party Functionality
+
+Please note these files use my own local database connection so would need to be changed to work with our own database.
